@@ -1,13 +1,13 @@
 module.exports = {
-  siteTitle: 'Resume', // <title>
-  manifestName: 'Resume',
+  siteTitle: 'Lebenslauf', // <title>
+  manifestName: 'Lebenslauf',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#b8b8b8',
   manifestThemeColor: '#0049bf',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
-  pathPrefix: `/gatsby-starter-resume/`, // This path is subpath of your hosting https://domain/portfolio
+  pathPrefix: `/lebenslauf`, // This path is subpath of your hosting https://domain/portfolio
   firstName: 'Abdullah',
   lastName: 'Khdir',
   // social
