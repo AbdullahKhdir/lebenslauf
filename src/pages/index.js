@@ -22,7 +22,7 @@ const IndexPage = () => (
             <a href={`mailto:${config.email}`}>{config.email}</a>
           </div>
           <p className="lead mb-5">
-              Ich bin Abdullah, Khdir, 25 Jahre alt und komme aus Syrien. Ich bin seit 7 Jahren in Deutschland und arbeite gerade
+              Ich bin Abdullah, Khdir, 26 Jahre alt und komme aus Syrien. Ich bin seit 8 Jahren in Deutschland und arbeite gerade
               als Full Stack Web Developer bei der Deutschen Telekom Individual Solutions & Products GmbH.
               In 2021 absolvierte ich eine Ausbildung als Fachinformatiker für Anwendungsentwicklung bei der Deutschen Telekom AG.
               Während meiner Ausbildung habe ich Erfahrungen in unterschiedlichen Bereichen gesammelt, die in der Telekommunikationswelt wichtig sind und in der IT-Welt als Programmierer benötigt werden.

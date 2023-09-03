@@ -26,7 +26,7 @@
     "smoothscroll-polyfill": "^0.4.4"
   },
   "scripts": {
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public", 
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "heroku-postbuild": "gatsby build",
     "start": "gatsby serve",
     "develop": "gatsby develop",
