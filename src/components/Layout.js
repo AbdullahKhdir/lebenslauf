@@ -28,7 +28,7 @@ class Layout extends Component {
                 { name: 'keywords', content: 'site, web' },
               ]}
             >
-              <html lang="en" />
+              <html lang="de" />
             </Helmet>
             <div className={'main-body'}>{children}</div>
           </>

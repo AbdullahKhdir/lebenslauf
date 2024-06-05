@@ -1,11 +1,11 @@
 var plugins = [{
-      plugin: require('C:/Users/apuns/Desktop/Courses/Lebenslauf/lebenslauf/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('C:/Users/apuns/Desktop/ /(4)/Lebenslauf/lebenslauf/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('C:/Users/apuns/Desktop/Courses/Lebenslauf/lebenslauf/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('C:/Users/apuns/Desktop/ /(4)/Lebenslauf/lebenslauf/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"Lebenslauf","short_name":"Landing","start_url":"/lebenslauf","background_color":"#b8b8b8","theme_color":"#0049bf","display":"standalone","icon":"src/assets/img/website-icon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"34ded252fc8e8dadced26fc66fa517fe"},
     },{
-      plugin: require('C:/Users/apuns/Desktop/Courses/Lebenslauf/lebenslauf/node_modules/gatsby-plugin-offline/gatsby-ssr'),
+      plugin: require('C:/Users/apuns/Desktop/ /(4)/Lebenslauf/lebenslauf/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
